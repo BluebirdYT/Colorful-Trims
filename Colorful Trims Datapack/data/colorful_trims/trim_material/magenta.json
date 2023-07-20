@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta",
+  "description": {
+    "color": "#db7ad5",
+    "translate": "trim_material.colorful_trims.magenta"
+  },
+  "ingredient": "minecraft:magenta_dye",
+  "item_model_index": 0.21
+}

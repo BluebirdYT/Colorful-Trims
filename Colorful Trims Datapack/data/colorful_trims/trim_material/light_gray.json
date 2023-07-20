@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_gray",
+  "description": {
+    "color": "#b9b9c0",
+    "translate": "trim_material.colorful_trims.light_gray"
+  },
+  "ingredient": "minecraft:light_gray_dye",
+  "item_model_index": 0.24
+}

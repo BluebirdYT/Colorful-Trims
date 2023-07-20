@@ -1,0 +1,9 @@
+{
+  "asset_name": "brown",
+  "description": {
+    "color": "#7a431b",
+    "translate": "trim_material.colorful_trims.brown"
+  },
+  "ingredient": "minecraft:brown_dye",
+  "item_model_index": 0.27
+}

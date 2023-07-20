@@ -1,0 +1,9 @@
+{
+  "asset_name": "purple",
+  "description": {
+    "color": "#8b35bb",
+    "translate": "trim_material.colorful_trims.purple"
+  },
+  "ingredient": "minecraft:purple_dye",
+  "item_model_index": 0.19
+}

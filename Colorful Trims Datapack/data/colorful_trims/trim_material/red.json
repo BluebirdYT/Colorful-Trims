@@ -1,0 +1,9 @@
+{
+  "asset_name": "red",
+  "description": {
+    "color": "#91213a",
+    "translate": "trim_material.colorful_trims.red"
+  },
+  "ingredient": "minecraft:red_dye",
+  "item_model_index": 0.11
+}

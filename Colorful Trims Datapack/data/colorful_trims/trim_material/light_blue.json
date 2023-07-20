@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_blue",
+  "description": {
+    "color": "#4e81cc",
+    "translate": "trim_material.colorful_trims.light_blue"
+  },
+  "ingredient": "minecraft:light_blue_dye",
+  "item_model_index": 0.16
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "black",
+  "description": {
+    "color": "#222139",
+    "translate": "trim_material.colorful_trims.black"
+  },
+  "ingredient": "minecraft:black_dye",
+  "item_model_index": 0.26
+}

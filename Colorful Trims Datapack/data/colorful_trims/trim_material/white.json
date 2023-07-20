@@ -1,0 +1,9 @@
+{
+  "asset_name": "white",
+  "description": {
+    "color": "#fcfcfc",
+    "translate": "trim_material.colorful_trims.white"
+  },
+  "ingredient": "minecraft:white_dye",
+  "item_model_index": 0.23
+}

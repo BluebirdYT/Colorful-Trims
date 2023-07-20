@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange",
+  "description": {
+    "color": "#d98a24",
+    "translate": "trim_material.colorful_trims.orange"
+  },
+  "ingredient": "minecraft:orange_dye",
+  "item_model_index": 0.12
+}

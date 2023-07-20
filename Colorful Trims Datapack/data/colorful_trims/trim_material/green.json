@@ -1,0 +1,9 @@
+{
+  "asset_name": "green",
+  "description": {
+    "color": "#273f03",
+    "translate": "trim_material.colorful_trims.green"
+  },
+  "ingredient": "minecraft:green_dye",
+  "item_model_index": 0.15
+}
