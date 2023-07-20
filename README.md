@@ -1,2 +1,2 @@
 # Colorful Trims
-Use any dye along with trims to customize your armor. Works with all trims and armor.
+Adds the ability to use dyes in the smithing table. Use any dye along with trims to customize your armor. Works with all trims and armor.
