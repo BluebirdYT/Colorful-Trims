@@ -140,7 +140,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/diamond_helmet_diamond_trim",
+  	"model": "minecraft:item/diamond_helmet_diamond_trim_darker_trim",
   	"predicate": {
     	"trim_type": 0.8
   	}
