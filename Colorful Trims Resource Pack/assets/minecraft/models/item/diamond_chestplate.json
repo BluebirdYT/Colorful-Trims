@@ -110,7 +110,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/diamond_chestplate_netherite_darker_trim",
+  	"model": "minecraft:item/diamond_chestplate_netherite_trim",
   	"predicate": {
     	"trim_type": 0.3
   	}
@@ -140,7 +140,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/diamond_chestplate_diamond_trim",
+  	"model": "minecraft:item/diamond_chestplate_diamond_darker_trim",
   	"predicate": {
     	"trim_type": 0.8
   	}

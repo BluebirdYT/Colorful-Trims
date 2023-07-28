@@ -62,7 +62,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/iron_helmet_iron_trim",
+  	"model": "minecraft:item/iron_helmet_iron_darker_trim",
   	"predicate": {
     	"trim_type": 0.2
   	}
@@ -110,7 +110,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/iron_helmet_netherite_darker_trim",
+  	"model": "minecraft:item/iron_helmet_netherite_trim",
   	"predicate": {
     	"trim_type": 0.3
   	}
