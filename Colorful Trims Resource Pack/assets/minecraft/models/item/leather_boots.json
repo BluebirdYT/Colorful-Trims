@@ -62,7 +62,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/leather_boots_iron_darker_trim",
+  	"model": "minecraft:item/leather_boots_iron_trim",
   	"predicate": {
     	"trim_type": 0.2
   	}
