@@ -110,7 +110,7 @@
   	}
 	},
 	{
-  	"model": "minecraft:item/leather_leggings_netherite_darker_trim",
+  	"model": "minecraft:item/leather_leggings_netherite_trim",
   	"predicate": {
     	"trim_type": 0.3
   	}
