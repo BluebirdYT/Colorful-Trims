@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 18,
+    "supported_formats": [15, 2147483647],
     "description": "Custom Trims"
   }
 }
